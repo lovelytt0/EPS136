@@ -1,4 +1,4 @@
-# EPS136
+# EPS 136A Applied Geophysics
  
 > - (Lab 1) Remote lab setup: Jupyter Lab, Virtual Box, Matlab, etc
 
