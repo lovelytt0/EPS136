@@ -1,7 +1,7 @@
 # EPS 136A Applied Geophysics
  
 > - (Lab 1) Remote lab setup: Jupyter Lab, Virtual Box, Matlab, etc
-  > - [google douc](https://docs.google.com/document/d/1dkQMCQrEHQCQTaDpHkv_uXHFYJRGAUarDDqLrxAQB8U/edit#heading=h.xac889lxj9nx)
+   - [google docu](https://docs.google.com/document/d/1dkQMCQrEHQCQTaDpHkv_uXHFYJRGAUarDDqLrxAQB8U/edit#heading=h.xac889lxj9nx)
 
 > - (Lab 2) Introduction to Python 
 
